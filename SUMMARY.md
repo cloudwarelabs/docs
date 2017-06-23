@@ -1,12 +1,11 @@
-# Summary
+# 云件平台使用说明
 
-* [Introduction](README.md)
-* [基本信息](basicInfo.md)
-* [注册与登录](signupAndIn.md)
-* [运行MATLAB](run-matlab.md)
-* [作业下载](download.md)
-* [作业上传](fileupload.md)
-* [管理员操作](admin.md)
+* [1.基本信息](basicInfo.md)
+* [2.注册与登录](signupAndIn.md)
+* [3.运行云件](run-matlab.md)
+* [4.文件上传与下载](file-upload-download.md)
+* [5.作业提交与查阅](homework-submission-review.md)
+* [6.管理员操作](management.md)
 
 
 
